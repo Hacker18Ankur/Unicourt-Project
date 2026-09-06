@@ -1,0 +1,62 @@
+[
+  {
+    "case_number": "WP-1023-2025",
+    "case_title": "A v. State of Karnataka",
+    "court": "High Court of Karnataka",
+    "case_type": "Writ Petition",
+    "filing_date": "2025-02-14",
+    "status": "Pending",
+    "hearing_date": "2026-09-15",
+    "judge": "Justice A. Kumar",
+    "source_url": "https://example.com/case/WP-1023-2025",
+    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+  },
+  {
+    "case_number": "CRL-458-2025",
+    "case_title": "B v. State of Karnataka",
+    "court": "High Court of Karnataka",
+    "case_type": "Criminal Appeal",
+    "filing_date": "2025-05-20",
+    "status": "Disposed",
+    "hearing_date": "2026-08-28",
+    "judge": "Justice R. Sharma",
+    "source_url": "https://example.com/case/CRL-458-2025",
+    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+  },
+  {
+    "case_number": "CIV-781-2026",
+    "case_title": "C v. D",
+    "court": "District Court",
+    "case_type": "Civil Suit",
+    "filing_date": "2026-01-10",
+    "status": "Pending",
+    "hearing_date": "2026-10-03",
+    "judge": "Justice P. Rao",
+    "source_url": "https://example.com/case/CIV-781-2026",
+    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+  },
+  {
+    "case_number": "WP-2145-2026",
+    "case_title": "E v. State of Karnataka",
+    "court": "High Court of Karnataka",
+    "case_type": "Writ Petition",
+    "filing_date": "2026-03-12",
+    "status": "Pending",
+    "hearing_date": "2026-09-22",
+    "judge": "Justice S. Rao",
+    "source_url": "https://example.com/case/WP-2145-2026",
+    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+  },
+  {
+    "case_number": "CIV-332-2025",
+    "case_title": "F v. G",
+    "court": "District Court",
+    "case_type": "Civil Suit",
+    "filing_date": "2025-07-08",
+    "status": "Disposed",
+    "hearing_date": "2026-07-19",
+    "judge": "Justice M. Shetty",
+    "source_url": "https://example.com/case/CIV-332-2025",
+    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+  }
+]
