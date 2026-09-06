@@ -9,7 +9,7 @@
     "hearing_date": "2026-09-15",
     "judge": "Justice A. Kumar",
     "source_url": "https://example.com/case/WP-1023-2025",
-    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+    "captured_at": "2026-09-06T05:54:48.687946+00:00"
   },
   {
     "case_number": "CRL-458-2025",
@@ -21,7 +21,7 @@
     "hearing_date": "2026-08-28",
     "judge": "Justice R. Sharma",
     "source_url": "https://example.com/case/CRL-458-2025",
-    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+    "captured_at": "2026-09-06T05:54:48.687946+00:00"
   },
   {
     "case_number": "CIV-781-2026",
@@ -33,7 +33,7 @@
     "hearing_date": "2026-10-03",
     "judge": "Justice P. Rao",
     "source_url": "https://example.com/case/CIV-781-2026",
-    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+    "captured_at": "2026-09-06T05:54:48.687946+00:00"
   },
   {
     "case_number": "WP-2145-2026",
@@ -45,7 +45,7 @@
     "hearing_date": "2026-09-22",
     "judge": "Justice S. Rao",
     "source_url": "https://example.com/case/WP-2145-2026",
-    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+    "captured_at": "2026-09-06T05:54:48.687946+00:00"
   },
   {
     "case_number": "CIV-332-2025",
@@ -57,6 +57,6 @@
     "hearing_date": "2026-07-19",
     "judge": "Justice M. Shetty",
     "source_url": "https://example.com/case/CIV-332-2025",
-    "captured_at": "2026-09-06T04:32:36.475034+00:00"
+    "captured_at": "2026-09-06T05:54:48.687946+00:00"
   }
 ]
